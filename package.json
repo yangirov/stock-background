@@ -1,0 +1,17 @@
+{
+  "name": "stock-background",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon"
+  },
+  "dependencies": {
+    "canvas": "^3.2.0",
+    "dotenv": "^17.2.3",
+    "tinkoff-invest-api": "^7.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
